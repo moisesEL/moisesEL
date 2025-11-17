@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/moisesEL/github-readme-stats">
     <img 
       height="200" 
       src="https://github-readme-stats.vercel.app/api?username=moisesEL&show_icons=true&theme=radical" 
@@ -13,7 +13,7 @@
     />
   </a>
 
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/moisesEL/convoychat">
     <img 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=moisesEL&layout=compact&theme=radical" 
